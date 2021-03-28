@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taras/Документы/lp/oop/3/3.3A/Point.cpp
+Point.h
+/home/taras/Документы/lp/oop/3/3.3A/Point.h
+
+/home/taras/Документы/lp/oop/3/3.3A/Point.h
+sstream
+-
+string
+-
+iostream
+-
+
