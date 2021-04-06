@@ -14,6 +14,7 @@ int main()
 	cout << "Triad a: " << endl; cout << a;
 	cout << "Triad b: " << endl; cout << b;
 	cout << "Triad c: " << endl; cout << c;
+
 	Time a1;
 	Time b1; cin >> b1;
 	cout << "Time a1: " << endl; cout << a1;
@@ -25,5 +26,4 @@ int main()
 	cout << "Triad c: " << endl; cout << c;
 	b1.addSeconds(65);
 	cout << (string)b1;
-
 }
